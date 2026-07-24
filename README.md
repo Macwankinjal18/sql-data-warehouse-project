@@ -18,8 +18,7 @@ This project involves:
 
 The data architecture for this project follows the **Medallion Architecture** (Bronze, Silver, and Gold layers):
 
-<img width="3714" height="1854" alt="Data_architecture " src="https://github.com/user-attachments/assets/f15080bd-3433-4abf-beff-084940c52bc4" />
-
+<img width="3408" height="1854" alt="Data_architecture (5)" src="https://github.com/user-attachments/assets/26c0da1f-d281-452d-be36-1a82e72b254c" />
 
 1. **Bronze Layer**: Stores raw data as-is from source CSV files (ERP and CRM) into the SQL Server database without modification.
 2. **Silver Layer**: Performs data cleansing, standardization, missing value handling, and normalization to prepare data for analytical processing.
