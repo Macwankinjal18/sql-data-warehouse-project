@@ -98,5 +98,15 @@ sql-data-warehouse-project/
 ├── tests/                               # Data quality checks and validation SQL scripts
 │   └── quality_checks_silver.sql        # Null checks, uniqueness, and constraint validation
 │
-├── README.md                            # Main project overview and setup guide
-└── LICENSE                              # Project license
+└── README.md                            # Main project overview and setup guide
+```
+---
+## 🌟 About Me & Connect
+
+Hi! I'm **Kinjal Macwan**, a passionate professional working on building robust data analytics and engineering solutions. I enjoy modeling datasets, crafting efficient SQL transformations, and turning raw data into business intelligence.
+
+Feel free to connect or reach out for collaboration!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinjal-macwan-90560a215)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macwankinjal18)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macwankinjal500@gmail.com)
